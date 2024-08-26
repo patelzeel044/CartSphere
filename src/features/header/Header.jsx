@@ -38,7 +38,7 @@ const user=useSelector(selectLoggedInUser)
                       <div className="flex items-center">
                         <div className="flex-shrink-0">
                         <Link to="/">
-                      <div className="text-2xl text-white font-semibold">MyCart</div>
+                      <div className="text-2xl text-white font-semibold">CartSphere</div>
                       </Link>
                         </div>
                         <div className="hidden md:block">
